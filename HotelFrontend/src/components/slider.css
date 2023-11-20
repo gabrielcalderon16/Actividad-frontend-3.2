@@ -1,0 +1,11 @@
+.img{
+    height: 250px;
+}
+
+
+@media (max-width: 1250px){
+.swiper{
+    display: none;
+}
+    
+}
